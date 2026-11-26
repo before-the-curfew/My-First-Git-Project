@@ -18,3 +18,13 @@ To understand basic version control operations and learn how to manage project r
 - Stage and commit changes.
 - View commit history.
 - Upload a project to GitHub.
+
+## Learning Outcome
+
+Through this project, I learned how to:
+- Initialize a Git repository.
+- Track changes using Git.
+- Stage and commit files.
+- View commit history.
+- Connect a local repository to GitHub.
+- Push changes to a remote repository.
